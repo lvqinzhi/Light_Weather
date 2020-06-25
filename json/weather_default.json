@@ -1,0 +1,379 @@
+{
+    "status": 0,
+    "msg": "ok",
+    "result": {
+        "city": "安顺",
+        "cityid": 111,
+        "citycode": "101260301",
+        "date": "2019-09-04",
+        "week": "星期三",
+        "weather": "阴",
+        "temp": "20",
+        "temphigh": "25",
+        "templow": "17",
+        "img": "2",
+        "humidity": "74",
+        "pressure": "856",
+        "windspeed": "2.8",
+        "winddirect": "南风",
+        "windpower": "2级",
+        "updatetime": "2019-09-04 10:05:00",
+        "index": [
+            {
+                "iname": "空调指数",
+                "ivalue": "较少开启",
+                "detail": "您将感到很舒适，一般不需要开启空调。"
+            },
+            {
+                "iname": "运动指数",
+                "ivalue": "适宜",
+                "detail": "天气较好，赶快投身大自然参与户外运动，尽情感受运动的快乐吧。"
+            },
+            {
+                "iname": "紫外线指数",
+                "ivalue": "弱",
+                "detail": "紫外线强度较弱，建议出门前涂擦SPF在12-15之间、PA+的防晒护肤品。"
+            },
+            {
+                "iname": "感冒指数",
+                "ivalue": "少发",
+                "detail": "各项气象条件适宜，无明显降温过程，发生感冒机率较低。"
+            },
+            {
+                "iname": "洗车指数",
+                "ivalue": "较适宜",
+                "detail": "较适宜洗车，未来一天无雨，风力较小，擦洗一新的汽车至少能保持一天。"
+            },
+            {
+                "iname": "空气污染扩散指数",
+                "ivalue": "较差",
+                "detail": "气象条件较不利于空气污染物稀释、扩散和清除，请适当减少室外活动时间。"
+            },
+            {
+                "iname": "穿衣指数",
+                "ivalue": "舒适",
+                "detail": "建议着长袖T恤、衬衫加单裤等服装。年老体弱者宜着针织长袖衬衫、马甲和长裤。"
+            }
+        ],
+        "aqi": {
+            "so2": "10",
+            "so224": "",
+            "no2": "16",
+            "no224": "",
+            "co": "0.700",
+            "co24": "",
+            "o3": "53",
+            "o38": "",
+            "o324": "",
+            "pm10": "35",
+            "pm1024": "",
+            "pm2_5": "27",
+            "pm2_524": "",
+            "iso2": "3",
+            "ino2": "8",
+            "ico": "7",
+            "io3": "16",
+            "io38": "",
+            "ipm10": "35",
+            "ipm2_5": "38",
+            "aqi": "39",
+            "primarypollutant": "PM2.5",
+            "quality": "优",
+            "timepoint": "2019-09-04 09:00:00",
+            "aqiinfo": {
+                "level": "一级",
+                "color": "#00e400",
+                "affect": "空气质量令人满意，基本无空气污染",
+                "measure": "各类人群可正常活动"
+            }
+        },
+        "daily": [
+            {
+                "date": "2019-09-04",
+                "week": "星期三",
+                "sunrise": "06:36",
+                "sunset": "19:14",
+                "night": {
+                    "weather": "阴",
+                    "templow": "17",
+                    "img": "2",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "多云",
+                    "temphigh": "25",
+                    "img": "1",
+                    "winddirect": "东北风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-05",
+                "week": "星期四",
+                "sunrise": "06:37",
+                "sunset": "19:13",
+                "night": {
+                    "weather": "阴",
+                    "templow": "18",
+                    "img": "2",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "多云",
+                    "temphigh": "25",
+                    "img": "1",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-06",
+                "week": "星期五",
+                "sunrise": "06:37",
+                "sunset": "19:12",
+                "night": {
+                    "weather": "阴",
+                    "templow": "19",
+                    "img": "2",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "多云",
+                    "temphigh": "24",
+                    "img": "1",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-07",
+                "week": "星期六",
+                "sunrise": "06:37",
+                "sunset": "19:11",
+                "night": {
+                    "weather": "阴",
+                    "templow": "19",
+                    "img": "2",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "多云",
+                    "temphigh": "25",
+                    "img": "1",
+                    "winddirect": "东风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-08",
+                "week": "星期日",
+                "sunrise": "06:38",
+                "sunset": "19:10",
+                "night": {
+                    "weather": "小雨",
+                    "templow": "20",
+                    "img": "7",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "多云",
+                    "temphigh": "26",
+                    "img": "1",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-09",
+                "week": "星期一",
+                "sunrise": "06:38",
+                "sunset": "19:09",
+                "night": {
+                    "weather": "小雨",
+                    "templow": "20",
+                    "img": "7",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "小雨",
+                    "temphigh": "25",
+                    "img": "7",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                }
+            },
+            {
+                "date": "2019-09-10",
+                "week": "星期二",
+                "sunrise": "06:39",
+                "sunset": "19:07",
+                "night": {
+                    "weather": "小雨",
+                    "templow": "21",
+                    "img": "7",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                },
+                "day": {
+                    "weather": "小雨",
+                    "temphigh": "26",
+                    "img": "7",
+                    "winddirect": "南风",
+                    "windpower": "微风"
+                }
+            }
+        ],
+        "hourly": [
+            {
+                "time": "10:00",
+                "weather": "阴",
+                "temp": "22",
+                "img": "2"
+            },
+            {
+                "time": "11:00",
+                "weather": "阴",
+                "temp": "23",
+                "img": "2"
+            },
+            {
+                "time": "12:00",
+                "weather": "阴",
+                "temp": "24",
+                "img": "2"
+            },
+            {
+                "time": "13:00",
+                "weather": "多云",
+                "temp": "24",
+                "img": "1"
+            },
+            {
+                "time": "14:00",
+                "weather": "多云",
+                "temp": "25",
+                "img": "1"
+            },
+            {
+                "time": "15:00",
+                "weather": "多云",
+                "temp": "25",
+                "img": "1"
+            },
+            {
+                "time": "16:00",
+                "weather": "多云",
+                "temp": "25",
+                "img": "1"
+            },
+            {
+                "time": "17:00",
+                "weather": "多云",
+                "temp": "24",
+                "img": "1"
+            },
+            {
+                "time": "18:00",
+                "weather": "多云",
+                "temp": "24",
+                "img": "1"
+            },
+            {
+                "time": "19:00",
+                "weather": "多云",
+                "temp": "22",
+                "img": "1"
+            },
+            {
+                "time": "20:00",
+                "weather": "多云",
+                "temp": "20",
+                "img": "1"
+            },
+            {
+                "time": "21:00",
+                "weather": "多云",
+                "temp": "20",
+                "img": "1"
+            },
+            {
+                "time": "22:00",
+                "weather": "多云",
+                "temp": "19",
+                "img": "1"
+            },
+            {
+                "time": "23:00",
+                "weather": "多云",
+                "temp": "19",
+                "img": "1"
+            },
+            {
+                "time": "0:00",
+                "weather": "多云",
+                "temp": "19",
+                "img": "1"
+            },
+            {
+                "time": "1:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "2:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "3:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "4:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "5:00",
+                "weather": "多云",
+                "temp": "17",
+                "img": "1"
+            },
+            {
+                "time": "6:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "7:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "8:00",
+                "weather": "多云",
+                "temp": "18",
+                "img": "1"
+            },
+            {
+                "time": "9:00",
+                "weather": "多云",
+                "temp": "20",
+                "img": "1"
+            }
+        ]
+    }
+}
